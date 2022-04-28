@@ -25,3 +25,5 @@ Ce dépôt contient les sources de cette présentation.
 
 Le support est consultable ici: [slides.com/seignovert/open-science](https://slides.com/seignovert/open-science)
 et distribué sous license [`CC-BY-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
+
+[![DOI](https://zenodo.org/badge/486517122.svg)](https://zenodo.org/badge/latestdoi/486517122)
