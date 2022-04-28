@@ -21,7 +21,7 @@ _2022-04-28 - B. Seignovert_
 
 Ce dépôt contient les sources de cette présentation.
 
-[![Cover](imgs/Cover.png)](https://slides.com/seignovert/open-science)
+[![Cover](imgs/Cover.jpg)](https://slides.com/seignovert/open-science)
 
 Le support est consultable ici: [slides.com/seignovert/open-science](https://slides.com/seignovert/open-science)
 et distribué sous license [`CC-BY-SA 4.0`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr).
